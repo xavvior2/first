@@ -3,6 +3,7 @@
 ## Contributors
 
 - Kiss Pista <kisspista@gmail.com>
+- Nagy Árpád (FORMER) <nagyarpad@gmail.com>
 - Tank Aranka <tankaranka@gmail.com>
 
 ## Licence
