@@ -2,5 +2,9 @@
 
 ## Contributors
 
-- Kis Pista
+- Kiss Pista
 - Nagy Árpád
+
+## Licence
+
+Apache GNU GPL
