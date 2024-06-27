@@ -2,9 +2,10 @@
 
 ## Contributors
 
-- Kiss Pista
-- Nagy Árpád
+- Kiss Pista <kisspista@gmail.com>
+- Nagy Árpád <nagyarpad@gmail.com>
+- Tank Aranka <tankaranka@gmail.com>
 
 ## Licence
 
-Apache GNU GPL
+https://www.apache.org/licenses/LICENSE-2.0
